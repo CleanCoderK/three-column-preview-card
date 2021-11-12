@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://github.com/green-cyber/stats_preview_card)
-- Live Site URL: [live site URL here](https://green-cyber.github.io/stats_preview_card/)
+- Solution URL: [solution URL here](https://github.com/CleanCoderK/three-column-preview-card)
+- Live Site URL: [live site URL here](https://cleancoderk.github.io/three-column-preview-card/)
 
 ## My process
 
@@ -42,4 +42,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@green-cyber](https://www.frontendmentor.io/profile/green-cyber)
+- Frontend Mentor - [@CleanCoderK](https://www.frontendmentor.io/profile/green-cyber)
